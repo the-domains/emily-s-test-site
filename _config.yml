@@ -1,0 +1,28 @@
+name: Emily's Test Site
+favicon: null
+layout_spectrum: 0.6648795178625733
+typography_spectrum: 0.8333786318544298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9165585513692349
+  lightness: 0.6200467869639397
+  saturation: 0.5894757395144552
+  rhythmicContrast: 0.17549548600800335
+purpose: []
