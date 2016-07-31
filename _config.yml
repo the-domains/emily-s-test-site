@@ -2,6 +2,7 @@ name: Emily's Test Site
 favicon: null
 layout_spectrum: 0.6648795178625733
 typography_spectrum: 0.8333786318544298
+title: A test site for Emily to play with
 cta:
   domain: null
   bucket: null
